@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  ubuntu:
+    image: ubuntu:18.04
+    volumes:
+      - c:/users/koled/Desktop/webdev/tuts-resources-other/playground/shell-scripting/files:/home/files
+  
