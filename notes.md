@@ -20,3 +20,10 @@ chmod 750 ./helloworld.sh
 
 ### Note that if you are developing your script on a linux system remember to change your line endings to unix style (LF)
 + https://stackoverflow.com/questions/2920416/configure-bin-shm-bad-interpreter
+
+
+# Shell Scripting tutorial 2 (Comments & Variables)
++ '#' symbols are used for comments
++  Variables store information. two types
+  + System variables - variables defined by the OS (ex: $BASH, $USER, $HOME)
+  + User variables - maintained by the user(USER_NAME=cool, echo $USER_NAME)
