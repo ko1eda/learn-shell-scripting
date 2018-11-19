@@ -20,7 +20,6 @@ or
 chmod 750 ./helloworld.sh
 
 ```
-
 ### Note that if you are developing your script on a windows system remember to change your line endings to unix style (LF)
 + https://stackoverflow.com/questions/2920416/configure-bin-shm-bad-interpreter
 
@@ -32,9 +31,13 @@ chmod 750 ./helloworld.sh
   + User variables - maintained by the user(USER_NAME=cool, echo $USER_NAME)
 
 
-## Shell Scripting tutorial 3 (Passing arguments to scripts)
+## Shell Scripting tutorial 3 (Reading user-input)
++ see ./files/user-input.sh
+
+
+## Shell Scripting tutorial 4 (Passing arguments to scripts)
 https://www.youtube.com/watch?v=BjBBfmDRakg&index=4&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
 
 
-## Shell Scripting tutorial 4 (Conditionals)
+## Shell Scripting tutorial 5 (Conditionals)
 + you can use these comparison operator flags https://www.tldp.org/LDP/abs/html/comparison-ops.html
