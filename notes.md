@@ -29,5 +29,9 @@ chmod 750 ./helloworld.sh
   + User variables - maintained by the user(USER_NAME=cool, echo $USER_NAME)
 
 
-# Passing arguments to scripts
+# Shell Scripting tutorial 3 (Passing arguments to scripts)
 https://www.youtube.com/watch?v=BjBBfmDRakg&index=4&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
+
+
+# Shell Scripting tutorial 4 (Conditionals)
++ you can use these comparison operator flags https://www.tldp.org/LDP/abs/html/comparison-ops.html
