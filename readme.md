@@ -41,3 +41,8 @@ https://www.youtube.com/watch?v=BjBBfmDRakg&index=4&list=PLS1QulWo1RIYmaxcEqw5Jh
 
 ## Shell Scripting tutorial 5 (Conditionals)
 + you can use these comparison operator flags https://www.tldp.org/LDP/abs/html/comparison-ops.html
+
+
+## Detour (SED tutorial)
++ http://www.grymoire.com/Unix/Sed.html
++ Ubuntu docker image doesn't come with man pages installed https://github.com/tianon/docker-brew-ubuntu-core/issues/122
