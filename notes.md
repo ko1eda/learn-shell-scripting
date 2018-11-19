@@ -27,3 +27,7 @@ chmod 750 ./helloworld.sh
 +  Variables store information. two types
   + System variables - variables defined by the OS (ex: $BASH, $USER, $HOME)
   + User variables - maintained by the user(USER_NAME=cool, echo $USER_NAME)
+
+
+# Passing arguments to scripts
+https://www.youtube.com/watch?v=BjBBfmDRakg&index=4&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
