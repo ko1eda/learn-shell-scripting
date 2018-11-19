@@ -1,4 +1,7 @@
-# Shell Scripting tutorial 1 
+# Notes for learning shell scripting
+
+
+## Shell Scripting tutorial 1 
 
 + Shell scripts are interperated, not compiled. 
 + Different types of shells, this tutorial will cover bash 
@@ -18,20 +21,20 @@ chmod 750 ./helloworld.sh
 
 ```
 
-### Note that if you are developing your script on a linux system remember to change your line endings to unix style (LF)
+### Note that if you are developing your script on a windows system remember to change your line endings to unix style (LF)
 + https://stackoverflow.com/questions/2920416/configure-bin-shm-bad-interpreter
 
 
-# Shell Scripting tutorial 2 (Comments & Variables)
+## Shell Scripting tutorial 2 (Comments & Variables)
 + '#' symbols are used for comments
 +  Variables store information. two types
   + System variables - variables defined by the OS (ex: $BASH, $USER, $HOME)
   + User variables - maintained by the user(USER_NAME=cool, echo $USER_NAME)
 
 
-# Shell Scripting tutorial 3 (Passing arguments to scripts)
+## Shell Scripting tutorial 3 (Passing arguments to scripts)
 https://www.youtube.com/watch?v=BjBBfmDRakg&index=4&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_
 
 
-# Shell Scripting tutorial 4 (Conditionals)
+## Shell Scripting tutorial 4 (Conditionals)
 + you can use these comparison operator flags https://www.tldp.org/LDP/abs/html/comparison-ops.html
