@@ -46,3 +46,11 @@ https://www.youtube.com/watch?v=BjBBfmDRakg&index=4&list=PLS1QulWo1RIYmaxcEqw5Jh
 ## Detour (SED tutorial)
 + http://www.grymoire.com/Unix/Sed.html
 + Ubuntu docker image doesn't come with man pages installed https://github.com/tianon/docker-brew-ubuntu-core/issues/122
+
+
+## Shell Scripting tutorial 6 (Testing for file types)
++ see test-file.sh
++ list of file test operators https://www.tldp.org/LDP/abs/html/fto.html
++ Character special files vs block special files
+  + Character special files consist of text -c flag for comparisons
+  + Block special files consist of binaries, vidoes, image files, etc -b flag 
