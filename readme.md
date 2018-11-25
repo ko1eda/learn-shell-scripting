@@ -64,3 +64,6 @@ https://www.youtube.com/watch?v=BjBBfmDRakg&index=4&list=PLS1QulWo1RIYmaxcEqw5Jh
 
 ## Shell Scripting Tutorial for Beginners 9 (Logical 'OR' Operator)
 + see logical-operators
+
+## Shell Scripting Tutorial for Beginners 10 (arithmetic operations)
++ see arithmetic-operations.sh
