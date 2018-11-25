@@ -58,3 +58,9 @@ https://www.youtube.com/watch?v=BjBBfmDRakg&index=4&list=PLS1QulWo1RIYmaxcEqw5Jh
   
 ## Shell Scripting tutorial 7 (Appending text to files)
 + See append-text.sh
+
+## Shell Scripting Tutorial for Beginners 8 (Logical 'AND' Operator)
++ see logical-operators
+
+## Shell Scripting Tutorial for Beginners 9 (Logical 'OR' Operator)
++ see logical-operators
