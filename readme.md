@@ -54,3 +54,7 @@ https://www.youtube.com/watch?v=BjBBfmDRakg&index=4&list=PLS1QulWo1RIYmaxcEqw5Jh
 + Character special files vs block special files
   + Character special files consist of text -c flag for comparisons
   + Block special files consist of binaries, vidoes, image files, etc -b flag 
+
+  
+## Shell Scripting tutorial 7 (Appending text to files)
++ See append-text.sh
